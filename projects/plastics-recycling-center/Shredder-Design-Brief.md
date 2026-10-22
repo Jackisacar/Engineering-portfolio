@@ -20,7 +20,7 @@
   ### Solutions
   We have a gear reducer —40:1— this means that we can reduce it down to roughly 42 RPM. I created the following equation for us or any other group to use, to caculate the ΔRPS This being 
 ```math
-R_{driven} = ([R_{driver}/40^{-1}]/60)
+R_{driven} = ([R_{driver}*40^{-1}]/60)
 ```
 
  For the speed setting using a gear reducer also help control the speed though we still can only control the speed by varying the voltage & Current.
