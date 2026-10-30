@@ -3,9 +3,6 @@ Engineering project documentation and portfolio
 
 * Note: GitHub does NOT organize folder by creation date, if you wish to see folders by date run the following code snipet in your terminal.
 
-
-More readable multi-line
-
 WIDTH=35        # Column padding width
 DIR=.           # You can substitute this for a directory name
 for filename in "${DIR}"/*
