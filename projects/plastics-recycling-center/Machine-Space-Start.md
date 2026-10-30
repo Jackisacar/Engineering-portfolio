@@ -29,6 +29,7 @@ We had our first team switch. I am now assigned to the Machine Space team, the d
   We would have the shredder be in a central area while the storage is off to the side, minimzing the ammount of useable space we take up.
 
   In order to determine if this is viable we had to take mesurements of every part of the shop shown in the photo below
+  * NOTE: This is not to scale...
  <img width="1024" height="768" alt="Workshop Rough draft map" src="https://github.com/user-attachments/assets/644b7955-bc78-4ce2-a51c-d1536da36d82" />
   With the mesurments givin the the layout draft we could find three placese for the mechanisms.
   The temporary storage is where we can store any parts that are not in use.
