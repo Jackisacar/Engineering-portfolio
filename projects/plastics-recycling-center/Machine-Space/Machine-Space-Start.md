@@ -1,4 +1,4 @@
-# Plastic Recycling Shredder Developement
+# Plastic Recycling Machine Space Initial Work
 
  **Student: Jack Clouse**
  **Course: Engineering I**
